@@ -1,1 +1,1 @@
-web: node home.html
+web: home.html
